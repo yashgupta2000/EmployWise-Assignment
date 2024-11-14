@@ -42,7 +42,7 @@ This will install all the dependencies listed in the package.json file, includin
 
 3. Start the development server:
 ```
- npm -v
+ npm start
 ```
 This will start the React development server. Open your browser and visit http://localhost:3000 to view the app.
 
