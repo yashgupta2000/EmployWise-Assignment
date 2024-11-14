@@ -1,4 +1,4 @@
-# My App
+# EmployWise Assignment
 This project is a React application bootstrapped with create-react-app and includes Tailwind CSS for styling. The app uses several dependencies such as Font Awesome for icons, React Router for navigation, and React Toastify for notifications.
 
 # Prerequisites
